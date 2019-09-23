@@ -1,0 +1,36 @@
+#loop {
+  position: fixed;
+  left: 200px;
+}
+#box1 {
+  position: fixed;
+  width: 200px;
+  top: 80px;
+left: 100px;
+}
+#box2 {
+  position: fixed;
+  width: 200px;
+  top: 80px;
+left: 350px;
+}
+#box3 {
+  position: fixed;
+  width: 200px;
+  top: 80px;
+left: 595px;
+}
+#box4 {
+  position: fixed;
+  width: 200px;
+  top: 80px;
+left: 840px;
+}
+#butt {
+  position: fixed;
+  top: 120px;
+  right: 120px;
+}
+p {
+  color: blue;
+}
